@@ -9,16 +9,15 @@ Powered by the MERN stack (MongoDB, Express.js, React.js, and Node.js), my app e
 
 # TechStack 
  
- 1. Reactjs
- 2. Redux
- 3. Thunk
- 4. sass
- 5. Material UI
- 6. Nodejs
- 7. firebase
- 8. expressjs
- 9. mongoose
- 10. mongoDB atlas
+Here is the properly numbered list:  
+
+1. React.js  
+2. Material UI  
+3. Node.js  
+4. Firebase  
+5. Express.js  
+6. Mongoose  
+7. MongoDB Atlas
 
 # preview
 
